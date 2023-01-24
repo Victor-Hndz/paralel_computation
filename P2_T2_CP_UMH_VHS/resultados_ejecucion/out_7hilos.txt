@@ -1,0 +1,4 @@
+Fichero de entrada: b.bin
+Elementos de mayor valor absoluto obtenidos: -68593226739.0 244743.2 -229847.6 235100.4 -233616.2 234012.8 -234006.4 
+Numero de hilos usados: 7
+Tiempo de ejecucion: 1000.803579110652 ms.

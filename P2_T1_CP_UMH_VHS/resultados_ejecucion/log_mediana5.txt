@@ -1,0 +1,6 @@
+Fichero de entrada: lena4096x4096.raw
+Tamaño de la imagen: 4096x4096
+Modo de ejecucion: mediana
+Nombre del fichero de salida: out.raw
+Numero de hilos usados: 5
+Tiempo de ejecucion: 652.850162 ms.

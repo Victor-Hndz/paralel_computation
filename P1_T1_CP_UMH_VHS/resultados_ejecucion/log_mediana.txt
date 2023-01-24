@@ -1,0 +1,6 @@
+Fichero de entrada: lena4096x4096.raw
+Tamaño de la imagen: 4096x4096
+Nombre del fichero de salida: out_mediana.raw
+Método usado: mediana
+Numero de procesos: 5
+Tiempo de ejecucion: 700.0600000000001 ms.

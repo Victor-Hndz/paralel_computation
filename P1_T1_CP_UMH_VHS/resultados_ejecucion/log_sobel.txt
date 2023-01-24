@@ -1,0 +1,6 @@
+Fichero de entrada: lena4096x4096.raw
+Tamaño de la imagen: 4096x4096
+Nombre del fichero de salida: out_sobel.raw
+Método usado: sobel
+Numero de procesos: 5
+Tiempo de ejecucion: 114.681 ms.

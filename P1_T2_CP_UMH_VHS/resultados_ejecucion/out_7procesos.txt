@@ -1,0 +1,4 @@
+Fichero de entrada: a.bin
+Elementos de mayor valor absoluto obtenidos: -324.7 22.0 -254.7 21.2 249.0 -21.3 -286.3 
+Numero de procesos usados: 7
+Tiempo de ejecucion: 2347.376 ms.
